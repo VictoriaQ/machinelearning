@@ -1,0 +1,15 @@
+# Practical Machine Learning - Prediction Assignment
+
+## Introduction
+
+## Preprocessing
+
+## Models
+
+### Random Forests
+
+### Boosting
+
+### Naive Bayes
+
+## Solution
